@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is ***Bikash Adhikari*** and I am from Kathmandu Nepal.
+My name is ***Bikash Adhikari*** 
 
 - 🔭 I’m currently working towards my Masters degree in Applied Computer Science.
 - 🌱 I’m currently learning Java, Web Apps and Advanced Database.
