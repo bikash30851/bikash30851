@@ -1,11 +1,10 @@
 ### Hi there 👋
 My name is ***Bikash Adhikari*** 
 
-- 🔭 I’m currently working towards my Masters degree in Applied Computer Science.
-- 🌱 I’m currently learning Java, Web Apps and Advanced Database.
-- 👯 I’m looking to collaborate on new java programming language related projects.
+- 🔭 Computer Software and Programming Specialist | Programming Lead
+- 🌱 Master's degree in Applied Computer Science.
+- 👯 Object Oriented Programming Java Spring Boot and C# .NET
 - 📫 How to reach me: bikash30851@gmail.com
 - 😄 Pronouns: He/Him/Her
 - ⚡ Fun fact: The tallest mountain in the world lies in my country. 
-- Link to [My peronal Portfolio Website](https://bikashad.com/)
 
